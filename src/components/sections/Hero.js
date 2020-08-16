@@ -70,7 +70,7 @@ const Hero = ({
                 </p> */}
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="#">
+                  <Button tag="a" color="primary" wideMobile href="https://afflat3d1.com/lnk.asp?o=13904&c=918273&a=240071&k=0&l=14627&s1=jp">
                     BUY NOW - 50% OFF
                     </Button>
                   {/* <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
