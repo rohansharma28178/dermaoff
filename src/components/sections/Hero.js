@@ -82,7 +82,7 @@ const Hero = ({
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
-              href="#0"
+              href="https://afflat3d1.com/lnk.asp?o=13904&c=918273&a=240071&k=0&l=14627&s1=jp"
               aria-controls="video-modal"
               onClick={openModal}
             >
