@@ -58,7 +58,7 @@ const Cta = ({
               </h3>
           </div>
           <div className="cta-action">
-          <Button style={{background:'green', color:'#FFFFFF'}} tag="a" color="green" wideMobile href="https://afflat3d1.com/lnk.asp?o=13904&c=918273&a=240071&k=0&l=14627&s1=jp">
+          <Button style={{background:'green', color:'#FFFFFF'}} tag="a" color="green" wideMobile href="https://brandtrx.com/?a=2682&c=3371&s1=">
                     Buy Now
                     </Button>
           </div>
